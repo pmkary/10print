@@ -1,5 +1,4 @@
-![ScreenShot](https://raw.githubusercontent.com/pmkary/10print/master/10PRINT-TWOCOLORED-12.png)
-<br><br><br>
+![ScreenShot](https://raw.githubusercontent.com/pmkary/10print/master/10PRINT.png)
 
 10 PRINT
 ========
